@@ -1,0 +1,21 @@
+.header-title{
+    background-color: #6495ed;
+    padding: 15px;
+    color: #fff;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.header-title a:first-child{
+    color: #fff;
+    font-size: 1.5em;
+}
+.my-card{
+    background-color: #eeeeee;
+    border-radius: 5px;
+    padding: 50px;
+}
+.my-card h2{
+    text-transform: uppercase;
+}
